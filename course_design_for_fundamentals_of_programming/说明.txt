@@ -1,0 +1,5 @@
+这里是大一下的《程序设计基础课程设计》（文件名course_design_for_fundamentals_of_programming是机翻
+
+作业用word文件提交，内容包括源代码、输入数据、输出数据、小结
+
+一阶段实验-图像二值化
